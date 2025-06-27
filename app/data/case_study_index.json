@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cs_001",
+    "slug": "loan-default-prediction",
+    "title": "Predicting Loan Defaults with Logistic Regression",
+    "summary": "A data science case study to model loan default risk.",
+    "tags": ["fintech", "classification", "eda"],
+    "github_url": "https://github.com/nestorojas/loan-default-prediction",
+    "readme_url": "https://raw.githubusercontent.com/nestorojas/loan-default-prediction/main/README.md",
+    "date": "2025-06-01"
+  },
+  {
+    "id": "cs_002",
+    "slug": "news-sentiment-analysis",
+    "title": "Analyzing Financial News Sentiment",
+    "summary": "Used NLP to track market-moving news sentiment.",
+    "tags": ["nlp", "sentiment", "economics"],
+    "github_url": "https://github.com/nestorojas/news-sentiment-analysis",
+    "readme_url": "https://raw.githubusercontent.com/nestorojas/news-sentiment-analysis/main/README.md",
+    "date": "2025-06-12"
+  }
+]
